@@ -1,18 +1,18 @@
-## Getting Started
+## Perpustakaan
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Selamat datang di aplikasi Perpustakaan sederhana!
 
-## Folder Structure
+## Fitur
 
-The workspace contains two folders by default, where:
+Fitur - fitur yang terdapat di perpustakaan ini sebagai pustakawan:
+- Menambahkan List Buku
+- Mengatur Pengembalian Buku
+- Mengatur Peminjaman
+- Mengatur Denda
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Lalu ada juga fitur sebagai pengunjung dan member:
+- Membuat Member
+- Melihat Buku
+- Meminjam Buku (Khusus Member)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+*Untuk meminjam buku, wajib registrasi member terlebih dahulu 
